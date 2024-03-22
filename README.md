@@ -15,6 +15,33 @@ You can use the website to generate badges: https://shields.io/
 
 Portfolio : https://charlescookey.com/
 
+
+</div>
+
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://charlescookey.com/">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="globe.gif">
+</a>
+</p>
+
+
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+</div>
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -23,3 +50,9 @@ Portfolio : https://charlescookey.com/
 
 - 👨🏽‍💻 I’m currently working on some games;
 - 🌱 I’m really good with C++; 
+
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
