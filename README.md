@@ -42,7 +42,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on some games;
-- 🌱 I’m really good with C++ and Unreal; 
+- 🌱 I’m really good with C++ and Unreal;
+- Hobbies : Football, MMA, Chess and the Bass Guitar 
 
 
 <div align="center">
