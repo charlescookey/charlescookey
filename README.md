@@ -43,6 +43,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on some games;
 - 🌱 I’m really good with C++ and Unreal;
+- 4 years of C++ experience
 - Hobbies : Football, MMA, Chess and the Bass Guitar 
 
 
